@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcome to Cpp - the Federal languanges: " << endl;
+    cout << "Welcome to C plus plus - the Federal languanges: " << endl;
     cout << "\t 1. C \n"
          << "\t 2. Object Oriengted C: \n"
          << "\t\t 2.1 Classes (constructors and destructors)" << endl
